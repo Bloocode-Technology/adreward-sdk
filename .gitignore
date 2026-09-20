@@ -8,3 +8,6 @@ flutter/.dart_tool/
 flutter/.packages
 flutter/pubspec.lock
 flutter/build/
+flutter/example/.dart_tool/
+flutter/example/pubspec.lock
+flutter/example/build/
