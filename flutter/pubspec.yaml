@@ -1,0 +1,19 @@
+name: adreward_attribution
+description: AdReward install-attribution SDK for Flutter. Reports app installs to AdReward and opens the one-time reward claim link.
+version: 1.0.0
+homepage: https://www.earn4rmads.com
+repository: https://github.com/Bloocode-Technology/adreward-sdk
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+  shared_preferences: ^2.2.0
+  url_launcher: ^6.2.0
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
